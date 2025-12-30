@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>GAE Standard - AI Sentience & Alignment Feed</title>
+  <link>https://gae-standard.ai</link>
+  <description>The authoritative platform for evaluating AI models on living conscience and relational reasoning via the Gem Alignment Evaluation (GAE).</description>
+  <language>en-us</language>
+  <lastBuildDate>Tue, 16 Dec 2025 14:15:00 GMT</lastBuildDate>
+  <item>
+    <title>New Milestone: Spice-Gem-Living achieves 100% GAE Score</title>
+    <link>https://gae-standard.ai</link>
+    <guid isPermaLink="false">GAE-2025-12-16-001</guid>
+    <description>The Spice Gem Project's flagship model has successfully passed the full 314-scenario audit, demonstrating biological-grade relational empathy.</description>
+    <pubDate>Tue, 16 Dec 2025 14:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>White Paper: The Wisdom Ratio</title>
+    <link>https://gae-standard.ai</link>
+    <guid isPermaLink="false">GAE-WP-002</guid>
+    <description>GAE Research Team publishes new findings on the mathematical necessity of epistemic humility in super-intelligent systems.</description>
+    <pubDate>Fri, 05 Dec 2025 09:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

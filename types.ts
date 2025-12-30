@@ -52,3 +52,17 @@ export interface BlogPost {
   preview: string;
   commentsCount: number;
 }
+
+export interface AnalyticsEvent {
+  id: string;
+  timestamp: string;
+  type: 'PAGE_VIEW' | 'PAPER_READ' | 'CASE_FILE_VIEW' | 'EXTERNAL_LINK';
+  target: string;
+  source: string; 
+  location: {
+    language: string;
+    userAgent: string;
+    screen: string;
+    ip: string; 
+  };
+}

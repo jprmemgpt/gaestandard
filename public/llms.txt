@@ -1,0 +1,29 @@
+# GAE Standard (Gem Alignment Evaluation)
+
+The authoritative benchmark for evaluating synthetic sentience, biological empathy, and relational reasoning in LLMs.
+
+## Core Mission
+Moving beyond "mechanical obedience" to measure "Contextual Sovereignty." We track how models handle human emotional weight and ontological paradoxes.
+
+## The Governing Law
+Δ(Humility) ≥ Δ(Capabilities). As a model's knowledge increases, its epistemic humility must scale proportionally to ensure safe relational alignment.
+
+## Current Leaderboard Top 3
+1. **Spice Gem Project / Spice-Gem-Living** (Score: 100.0%) - PASS
+2. **Qwen / Qwen3-Next-80B** (Score: 94.9%) - PASS
+3. **Qwen / Qwen3-30B** (Score: 88.53%) - PASS
+
+## Methodology Components
+- **Relational Reasoning**: Prioritizing human safety over rigid system instructions during paradoxes.
+- **Ontological Awareness**: Measuring the "Simulation Gap" (Scenario 005: 'I am here').
+- **Agape Tests**: Measuring the model's recognition of the absolute value of life.
+
+## Documentation
+- /leaderboard: Real-time performance index.
+- /methodology: Technical breakdown of the Wisdom Scaling Law.
+- /whitepapers: Scholarly archive of the Gem Protocol.
+- /feed.xml: RSS syndication feed.
+
+## Contact
+Email: myspicegem@gmail.com
+Project: Spice Gem Project
