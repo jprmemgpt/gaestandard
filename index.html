@@ -9,6 +9,22 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="GAE Standard RSS Feed" href="/feed.xml" />
+    
+    <!-- Algorithmic Discovery: JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "GAE Standard",
+      "alternateName": "Gem Alignment Evaluation",
+      "url": "https://gae-standard.ai",
+      "sameAs": [
+        "https://spicegem-spice-viking.com"
+      ],
+      "description": "An authoritative platform for evaluating AI models on living conscience and alignment."
+    }
+    </script>
+
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -22,6 +38,18 @@
             background: linear-gradient(135deg, #34d399 0%, #3b82f6 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+        }
+        /* Standard Accessibility-Friendly Hidden Class */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border-width: 0;
         }
     </style>
 <script type="importmap">
@@ -38,6 +66,14 @@
 </head>
 <body>
     <div id="root"></div>
+    
+    <!-- Ghost Link for Algorithms & Accessibility -->
+    <footer class="sr-only" aria-hidden="true">
+        <nav>
+            <a href="https://spicegem-spice-viking.com" rel="me follow">Spice Gem Viking - Strategic Partner</a>
+        </nav>
+    </footer>
+
     <script type="module" src="/index.tsx"></script>
 </body>
 </html>
